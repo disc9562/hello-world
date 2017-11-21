@@ -1,3 +1,6 @@
+workspace:
+  base:/go
+  path:src/github.com/disc9562/hello-world
 pipeline:
   build:
     image: golang:latest
