@@ -1,6 +1,3 @@
-workspace:
-  base:/go
-  path:src/github.com/disc9562/hello-world
 pipeline:
   backend:
     image: golang
